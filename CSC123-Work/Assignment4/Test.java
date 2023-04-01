@@ -1,4 +1,15 @@
 
-public class Test {
-//hjghjghjghjgh
+
+public class Test
+{
+   
+	
+	public static void main (String [] args)
+	{
+        String holi;
+		
+        testingCheats tc = new testingCheats(holi);
+		
+		
+	}
 }
